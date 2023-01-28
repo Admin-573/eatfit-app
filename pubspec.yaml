@@ -63,6 +63,9 @@ flutter:
     - assets/eatfit.jpeg
     - assets/eatfitlogo.png
     - assets/login.jpeg
+    - assets/bgm.jpeg
+    - assets/thx.jpeg
+    - assets/wait.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
